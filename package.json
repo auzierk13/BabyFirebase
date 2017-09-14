@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/auzierk13/BabyFirebase/issues"
   },
-  "homepage": "https://github.com/auzierk13/BabyFirebase#readme"
+  "homepage": "https://github.com/auzierk13/BabyFirebase#readme",
+  "dependencies": {
+    "firebase-admin": "^5.2.1"
+  }
 }
