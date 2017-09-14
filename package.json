@@ -1,0 +1,19 @@
+{
+  "name": "babyfirebase",
+  "version": "1.0.0",
+  "description": "Tcc 2017",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://auzierk13@github.com/auzierk13/BabyFirebase.git"
+  },
+  "author": "Bruno Auzier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/auzierk13/BabyFirebase/issues"
+  },
+  "homepage": "https://github.com/auzierk13/BabyFirebase#readme"
+}
